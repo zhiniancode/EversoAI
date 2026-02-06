@@ -4,9 +4,9 @@
 
 ## 当前阶段
 
-- 产品规划：`plan.md`
-- UI 规格：`ui-spec.md`
-- 技术规格：`tech-spec.md`
+- 产品规划：`docs/plan.md`
+- UI 规格：`docs/ui-spec.md`
+- 技术规格：`docs/tech-spec.md`
 
 ## 目标能力
 
@@ -19,3 +19,4 @@
 1. 初始化 Electron + React + TypeScript 脚手架
 2. 先实现启动页与三栏静态 UI
 3. 接入 ProviderAdapter 与会话持久化
+
